@@ -1,47 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/index.html</loc>
-    <lastmod>2025-05-15T17:33:43.298Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/ESR-Indicator-Catalog/index.html</loc>
+    <lastmod>2025-05-15T19:11:42.859Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/setup.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/ESR-Indicator-Catalog/content/Submission_Test1.html</loc>
+    <lastmod>2025-05-15T19:11:42.854Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/add-content.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/ESR-Indicator-Catalog/content/Submission_Test2.html</loc>
+    <lastmod>2025-05-15T19:11:42.855Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/customizing.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/ESR-Indicator-Catalog/ESR-Indicator-Catalog.pdf</loc>
+    <lastmod>2025-05-15T19:16:45.414Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/rendering.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/figures_and_tables.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/code.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/adding-refs.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/references.html</loc>
-    <lastmod>2025-05-15T17:33:43.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/NOAA-quarto-book.pdf</loc>
-    <lastmod>2025-05-15T17:40:43.320Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/NOAA-quarto-book.docx</loc>
-    <lastmod>2025-05-15T17:40:44.678Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/ESR-Indicator-Catalog/ESR-Indicator-Catalog.docx</loc>
+    <lastmod>2025-05-15T19:16:45.774Z</lastmod>
   </url>
 </urlset>

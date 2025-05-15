@@ -1,1 +1,1 @@
-Sitemap: https://nmfs-opensci.github.io/NOAA-quarto-book/sitemap.xml
+Sitemap: https://nmfs-opensci.github.io/ESR-Indicator-Catalog/sitemap.xml

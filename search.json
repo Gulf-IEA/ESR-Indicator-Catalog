@@ -2,191 +2,451 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NOAA quarto book",
+    "title": "ESR Indicator Catalog",
     "section": "",
-    "text": "Executive Summary\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo gravida justo consectetur condimentum. Proin eget felis non nunc tristique malesuada vel ut tortor. Vivamus lacinia aliquet lorem in congue. In hac habitasse platea dictumst. Etiam non felis iaculis, efficitur libero in, porta nunc. Sed sit amet nisi non justo scelerisque feugiat. Pellentesque porta consectetur sapien, porttitor iaculis ligula fermentum ac. Pellentesque fermentum elementum lacus non tempus. Aenean eu leo lobortis, vulputate mi at, varius sapien. In congue consectetur ultricies. Maecenas volutpat facilisis arcu, eget sodales tellus consequat nec. Integer ullamcorper ex nec leo aliquam tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc dui massa, facilisis at aliquet eu, malesuada vel neque. Donec fermentum elit eu tortor euismod, sed mollis lacus blandit.\nNew paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo gravida justo consectetur condimentum. Proin eget felis non nunc tristique malesuada vel ut tortor. Vivamus lacinia aliquet lorem in congue. In hac habitasse platea dictumst. Etiam non felis iaculis, efficitur libero in, porta nunc. Sed sit amet nisi non justo scelerisque feugiat. Pellentesque porta consectetur sapien, porttitor iaculis ligula fermentum ac. Pellentesque fermentum elementum lacus non tempus. Aenean eu leo lobortis, vulputate mi at, varius sapien. In congue consectetur ultricies. Maecenas volutpat facilisis arcu, eget sodales tellus consequat nec. Integer ullamcorper ex nec leo aliquam tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc dui massa, facilisis at aliquet eu, malesuada vel neque. Donec fermentum elit eu tortor euismod, sed mollis lacus blandit.",
+    "text": "Welcome to the Indicator Catalog\nThis site compiles all technical documentation collected via GitHub issue templates. Use the navigation bar above to explore individual submissions.",
     "crumbs": [
-      "Executive Summary"
+      "Welcome to the Indicator Catalog"
     ]
   },
   {
-    "objectID": "content/setup.html",
-    "href": "content/setup.html",
-    "title": "1  Set-up",
+    "objectID": "content/Submission_Test1.html",
+    "href": "content/Submission_Test1.html",
+    "title": "Pretend Dataset 1",
     "section": "",
-    "text": "1.1 GitHub Set-up\nThis is a template for a simple Quarto book output to html, PDF or docx format. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.",
+    "text": "Name and affiliation of person filling out this form\ntest",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set-up</span>"
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
     ]
   },
   {
-    "objectID": "content/setup.html#github-set-up",
-    "href": "content/setup.html#github-set-up",
-    "title": "1  Set-up",
+    "objectID": "content/Submission_Test1.html#primary-contact",
+    "href": "content/Submission_Test1.html#primary-contact",
+    "title": "Pretend Dataset 1",
+    "section": "Primary Contact",
+    "text": "Primary Contact\ntest",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#secondary-contact",
+    "href": "content/Submission_Test1.html#secondary-contact",
+    "title": "Pretend Dataset 1",
+    "section": "Secondary Contact",
+    "text": "Secondary Contact\ntest",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#indicator-name-as-listed-in-the-esr-report",
+    "href": "content/Submission_Test1.html#indicator-name-as-listed-in-the-esr-report",
+    "title": "Pretend Dataset 1",
+    "section": "Indicator Name (as listed in the ESR report)",
+    "text": "Indicator Name (as listed in the ESR report)\nCommercial landings",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#category-which-group-is-this-indicator-associated-with",
+    "href": "content/Submission_Test1.html#category-which-group-is-this-indicator-associated-with",
+    "title": "Pretend Dataset 1",
+    "section": "Category (Which group is this indicator associated with?)",
+    "text": "Category (Which group is this indicator associated with?)\nRisks to meeting fishery management objectives",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#family-which-group-is-this-indicator-associated-with",
+    "href": "content/Submission_Test1.html#family-which-group-is-this-indicator-associated-with",
+    "title": "Pretend Dataset 1",
+    "section": "Family (Which group is this indicator associated with?)",
+    "text": "Family (Which group is this indicator associated with?)\nBycatch reduction",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#data-description",
+    "href": "content/Submission_Test1.html#data-description",
+    "title": "Pretend Dataset 1",
+    "section": "Data Description",
+    "text": "Data Description\nThis is a pretend dataset.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#data-type",
+    "href": "content/Submission_Test1.html#data-type",
+    "title": "Pretend Dataset 1",
+    "section": "Data Type",
+    "text": "Data Type\nNon-automated data access",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#public-availability",
+    "href": "content/Submission_Test1.html#public-availability",
+    "title": "Pretend Dataset 1",
+    "section": "Public Availability",
+    "text": "Public Availability\nSource data are NOT publicly available.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#accessibility-and-constraints",
+    "href": "content/Submission_Test1.html#accessibility-and-constraints",
+    "title": "Pretend Dataset 1",
+    "section": "Accessibility and Constraints",
+    "text": "Accessibility and Constraints\nNeed to ask someone in Narnia.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#methods-for-accessing-and-preparing-data",
+    "href": "content/Submission_Test1.html#methods-for-accessing-and-preparing-data",
+    "title": "Pretend Dataset 1",
+    "section": "Methods for accessing and preparing data",
+    "text": "Methods for accessing and preparing data\nPlease be as detailed as possible. If the data are available in an online repository, please include the website link.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#name-of-r-script-used-to-access-and-manipulate-dataset",
+    "href": "content/Submission_Test1.html#name-of-r-script-used-to-access-and-manipulate-dataset",
+    "title": "Pretend Dataset 1",
+    "section": "Name of R script used to access and manipulate dataset",
+    "text": "Name of R script used to access and manipulate dataset\ndata1.R",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#key-figures",
+    "href": "content/Submission_Test1.html#key-figures",
+    "title": "Pretend Dataset 1",
+    "section": "Key figures",
+    "text": "Key figures\nStandard time series plot",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#interpretation",
+    "href": "content/Submission_Test1.html#interpretation",
+    "title": "Pretend Dataset 1",
+    "section": "Interpretation",
+    "text": "Interpretation\nProceed as though this were a short summary of a typical discussion section in a paper.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#spatial-scale",
+    "href": "content/Submission_Test1.html#spatial-scale",
+    "title": "Pretend Dataset 1",
+    "section": "Spatial Scale",
+    "text": "Spatial Scale\nNarnia",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#temporal-scale",
+    "href": "content/Submission_Test1.html#temporal-scale",
+    "title": "Pretend Dataset 1",
+    "section": "Temporal Scale",
+    "text": "Temporal Scale\nAnnual",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#data-limitations",
+    "href": "content/Submission_Test1.html#data-limitations",
+    "title": "Pretend Dataset 1",
+    "section": "Data Limitations",
+    "text": "Data Limitations\nThe data do not exist",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#define-variables",
+    "href": "content/Submission_Test1.html#define-variables",
+    "title": "Pretend Dataset 1",
+    "section": "Define Variables",
+    "text": "Define Variables\n\n\n\n\n\n\n\n\nName\nDefinition\nUnits\n\n\n\n\nEx: 1)\nNA\nNA\n\n\npiscivore_biomass; Definition: Biomass of piscivores; Units: kg tow^-1. 2)\nNA\nNA\n\n\nforage_biomass; Definition: Biomass of forage fish; Units: kg tow^-1.\nNA\nNA",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#key-references",
+    "href": "content/Submission_Test1.html#key-references",
+    "title": "Pretend Dataset 1",
+    "section": "Key references",
+    "text": "Key references\nEx. Surface North Atlantic MOM5-TOPAZ outputs derived from a regular hindcast and a robust diagnostic simulation experiment from 1980-01-01 to 2017-12-31 (NCEI Accession 0283628). NOAA National Centers for Environmental Information. Dataset. https://www.ncei.noaa.gov/archive/accession/0283628. Accessed 2023-02-19.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test1.html#data-contributors",
+    "href": "content/Submission_Test1.html#data-contributors",
+    "title": "Pretend Dataset 1",
+    "section": "Data Contributors",
+    "text": "Data Contributors\nEx: Carissa Gervasi, Mandy Karnauskas.",
+    "crumbs": [
+      "Gulf",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Pretend Dataset 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test2.html",
+    "href": "content/Submission_Test2.html",
+    "title": "Another example dataset",
     "section": "",
-    "text": "Click the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nTurn on GitHub Actions under Settings &gt; Actions &gt; General \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.",
+    "text": "Name and affiliation of person filling out this form\ntest",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set-up</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/add-content.html",
-    "href": "content/add-content.html",
-    "title": "2  Customize",
-    "section": "",
-    "text": "2.1 Edit and add your pages\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
+    "objectID": "content/Submission_Test2.html#primary-contact",
+    "href": "content/Submission_Test2.html#primary-contact",
+    "title": "Another example dataset",
+    "section": "Primary Contact",
+    "text": "Primary Contact\ntest",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Customize</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/add-content.html#edit-and-add-your-pages",
-    "href": "content/add-content.html#edit-and-add-your-pages",
-    "title": "2  Customize",
-    "section": "",
-    "text": "---\ntitle: your title\n---\n\n---\ntitle: your title\n---",
+    "objectID": "content/Submission_Test2.html#secondary-contact",
+    "href": "content/Submission_Test2.html#secondary-contact",
+    "title": "Another example dataset",
+    "section": "Secondary Contact",
+    "text": "Secondary Contact\ntest",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Customize</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/add-content.html#add-your-pages-the-project",
-    "href": "content/add-content.html#add-your-pages-the-project",
-    "title": "2  Customize",
-    "section": "2.2 Add your pages the project",
-    "text": "2.2 Add your pages the project\n\nAdd the files to _quarto.yml",
+    "objectID": "content/Submission_Test2.html#indicator-name-as-listed-in-the-esr-report",
+    "href": "content/Submission_Test2.html#indicator-name-as-listed-in-the-esr-report",
+    "title": "Another example dataset",
+    "section": "Indicator Name (as listed in the ESR report)",
+    "text": "Indicator Name (as listed in the ESR report)\nEducation and outreach events",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Customize</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/customizing.html",
-    "href": "content/customizing.html",
-    "title": "3  Customization",
-    "section": "",
-    "text": "3.1 Quarto documentation\nQuarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
+    "objectID": "content/Submission_Test2.html#category-which-group-is-this-indicator-associated-with",
+    "href": "content/Submission_Test2.html#category-which-group-is-this-indicator-associated-with",
+    "title": "Another example dataset",
+    "section": "Category (Which group is this indicator associated with?)",
+    "text": "Category (Which group is this indicator associated with?)\nRisks to meeting fishery management objectives",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Customization</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/customizing.html#examples",
-    "href": "content/customizing.html#examples",
-    "title": "3  Customization",
-    "section": "3.2 Examples",
-    "text": "3.2 Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory.",
+    "objectID": "content/Submission_Test2.html#family-which-group-is-this-indicator-associated-with",
+    "href": "content/Submission_Test2.html#family-which-group-is-this-indicator-associated-with",
+    "title": "Another example dataset",
+    "section": "Family (Which group is this indicator associated with?)",
+    "text": "Family (Which group is this indicator associated with?)\nGovernance",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Customization</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/rendering.html",
-    "href": "content/rendering.html",
-    "title": "4  Rendering",
-    "section": "",
-    "text": "4.1 Step 1. Make sure you have a recent RStudio\nThe repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally.\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto.",
+    "objectID": "content/Submission_Test2.html#data-description",
+    "href": "content/Submission_Test2.html#data-description",
+    "title": "Another example dataset",
+    "section": "Data Description",
+    "text": "Data Description\nSome more pretend data",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Rendering</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "4  Rendering",
-    "section": "4.2 Step 2. Clone and create RStudio project",
-    "text": "4.2 Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up.",
+    "objectID": "content/Submission_Test2.html#data-type",
+    "href": "content/Submission_Test2.html#data-type",
+    "title": "Another example dataset",
+    "section": "Data Type",
+    "text": "Data Type\nAutomated download",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Rendering</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/rendering.html#step-3.-render-within-rstudio",
-    "title": "4  Rendering",
-    "section": "4.3 Step 3. Render within RStudio",
-    "text": "4.3 Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”.",
+    "objectID": "content/Submission_Test2.html#public-availability",
+    "href": "content/Submission_Test2.html#public-availability",
+    "title": "Another example dataset",
+    "section": "Public Availability",
+    "text": "Public Availability\nSource data are publicly available.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Rendering</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/figures_and_tables.html",
-    "href": "content/figures_and_tables.html",
-    "title": "5  Figures and Tables",
-    "section": "",
-    "text": "5.1 Code\nMarkdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nYou can embed an R code chunk like this:\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00",
+    "objectID": "content/Submission_Test2.html#accessibility-and-constraints",
+    "href": "content/Submission_Test2.html#accessibility-and-constraints",
+    "title": "Another example dataset",
+    "section": "Accessibility and Constraints",
+    "text": "Accessibility and Constraints\nAvailable online at pretenddata.com",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Figures and Tables</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/figures_and_tables.html#including-plots",
-    "href": "content/figures_and_tables.html#including-plots",
-    "title": "5  Figures and Tables",
-    "section": "5.2 Including Plots",
-    "text": "5.2 Including Plots\nYou can also embed plots and reference them, like so Figure 5.1.\n\n\n\n\n\n\n\n\nFigure 5.1: Plot of pressure\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.",
+    "objectID": "content/Submission_Test2.html#methods-for-accessing-and-preparing-data",
+    "href": "content/Submission_Test2.html#methods-for-accessing-and-preparing-data",
+    "title": "Another example dataset",
+    "section": "Methods for accessing and preparing data",
+    "text": "Methods for accessing and preparing data\nPlease be as detailed as possible. If the data are available in an online repository, please include the website link.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Figures and Tables</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/figures_and_tables.html#including-tables",
-    "href": "content/figures_and_tables.html#including-tables",
-    "title": "5  Figures and Tables",
-    "section": "5.3 Including Tables",
-    "text": "5.3 Including Tables\nYou can also embed tables and reference them with Table 5.1.\n\nlibrary(knitr)\nkable(head(iris))\n\n\n\nTable 5.1: Iris Data\n\n\n\n\n\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\nSpecies\n\n\n\n\n5.1\n3.5\n1.4\n0.2\nsetosa\n\n\n4.9\n3.0\n1.4\n0.2\nsetosa\n\n\n4.7\n3.2\n1.3\n0.2\nsetosa\n\n\n4.6\n3.1\n1.5\n0.2\nsetosa\n\n\n5.0\n3.6\n1.4\n0.2\nsetosa\n\n\n5.4\n3.9\n1.7\n0.4\nsetosa",
+    "objectID": "content/Submission_Test2.html#name-of-r-script-used-to-access-and-manipulate-dataset",
+    "href": "content/Submission_Test2.html#name-of-r-script-used-to-access-and-manipulate-dataset",
+    "title": "Another example dataset",
+    "section": "Name of R script used to access and manipulate dataset",
+    "text": "Name of R script used to access and manipulate dataset\ntest2.R",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Figures and Tables</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/code.html",
-    "href": "content/code.html",
-    "title": "6  Rendering with Code",
-    "section": "",
-    "text": "6.1 Modify the GitHub Action\nYou can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
+    "objectID": "content/Submission_Test2.html#key-figures",
+    "href": "content/Submission_Test2.html#key-figures",
+    "title": "Another example dataset",
+    "section": "Key figures",
+    "text": "Key figures\nIf not a typical time series plot, please be as detailed as possible when describing the best way to visualize the data.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Rendering with Code</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/code.html#modify-the-github-action",
-    "href": "content/code.html#modify-the-github-action",
-    "title": "6  Rendering with Code",
-    "section": "",
-    "text": "render-and-publish.old_yml",
+    "objectID": "content/Submission_Test2.html#interpretation",
+    "href": "content/Submission_Test2.html#interpretation",
+    "title": "Another example dataset",
+    "section": "Interpretation",
+    "text": "Interpretation\nProceed as though this were a short summary of a typical discussion section in a paper.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Rendering with Code</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "6  Rendering with Code",
-    "section": "6.2 Render locally and publish to gh-pages branch",
-    "text": "6.2 Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
+    "objectID": "content/Submission_Test2.html#spatial-scale",
+    "href": "content/Submission_Test2.html#spatial-scale",
+    "title": "Another example dataset",
+    "section": "Spatial Scale",
+    "text": "Spatial Scale\nOz",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Rendering with Code</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/adding-refs.html",
-    "href": "content/adding-refs.html",
-    "title": "7  References",
-    "section": "",
-    "text": "Quarto has powerful references functionality. You can easily insert citations from Zotero libraries that you maintain in the cloud (on Zotero). This allows the whole team to update the library and you can sync up to that library. Read about this on the Quarto documentation on citations. Google youtube videos on this also to see it in action.\nAdd a .bib file in to your project or add a linked Zotero library via RStudio in Visual mode with Tools &gt; Project Options… &gt; R Markdown &gt; select custom libraries from the Zotero dropdown.\nThe you can type @ and you will see a dropdown of the references in your libraries. You can then select the ones to add. If you don’t see the one you need, you can paste in the DOI and it will be added to your references file (with all the info). The references will be added to your references section of your book automatically.\nSee the references.qmd file for how to include the references.\n\n@ansley1981 will produce Ansley and Davis (1981)\n[@ansley1981] will produce (Ansley and Davis 1981).\n\n\n\n\n\nAnsley, H. L. H., and C. D. Davis. 1981. “Migration and Standing Stock of Fishes Associated with Artificial and Natural Reefs on Georgia’s Outer Continental Shelf.” Brunswick, Georgia, USA.",
+    "objectID": "content/Submission_Test2.html#temporal-scale",
+    "href": "content/Submission_Test2.html#temporal-scale",
+    "title": "Another example dataset",
+    "section": "Temporal Scale",
+    "text": "Temporal Scale\nMonthly",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>References</span>"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   },
   {
-    "objectID": "content/references.html",
-    "href": "content/references.html",
-    "title": "References",
-    "section": "",
-    "text": "Ansley, H. L. H., and C. D. Davis. 1981. “Migration and Standing\nStock of Fishes Associated with Artificial and Natural Reefs on\nGeorgia’s Outer Continental Shelf.” Brunswick,\nGeorgia, USA.",
+    "objectID": "content/Submission_Test2.html#data-limitations",
+    "href": "content/Submission_Test2.html#data-limitations",
+    "title": "Another example dataset",
+    "section": "Data Limitations",
+    "text": "Data Limitations\nThe data do not exist",
     "crumbs": [
-      "References"
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test2.html#define-variables",
+    "href": "content/Submission_Test2.html#define-variables",
+    "title": "Another example dataset",
+    "section": "Define Variables",
+    "text": "Define Variables\n\n\n\nName\nDefinition\nUnits\n\n\n\n\nEx: 1)\nNA\nNA\n\n\nbirds; Definition: number of birds; Units: numbers. 2)\nNA\nNA\n\n\ncows; Definition: number of cows; Units: numbers.\nNA\nNA",
+    "crumbs": [
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test2.html#key-references",
+    "href": "content/Submission_Test2.html#key-references",
+    "title": "Another example dataset",
+    "section": "Key references",
+    "text": "Key references\nEx. Surface North Atlantic MOM5-TOPAZ outputs derived from a regular hindcast and a robust diagnostic simulation experiment from 1980-01-01 to 2017-12-31 (NCEI Accession 0283628). NOAA National Centers for Environmental Information. Dataset. https://www.ncei.noaa.gov/archive/accession/0283628. Accessed 2023-02-19.",
+    "crumbs": [
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
+    ]
+  },
+  {
+    "objectID": "content/Submission_Test2.html#data-contributors",
+    "href": "content/Submission_Test2.html#data-contributors",
+    "title": "Another example dataset",
+    "section": "Data Contributors",
+    "text": "Data Contributors\nEx: Carissa Gervasi, Mandy Karnauskas.",
+    "crumbs": [
+      "Caribbean",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Another example dataset</span>"
     ]
   }
 ]
