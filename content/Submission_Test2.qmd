@@ -1,0 +1,89 @@
+---
+title: "Another example dataset"
+format: html
+---
+
+## Name and affiliation of person filling out this form
+
+test
+
+## Primary Contact
+
+test
+
+## Secondary Contact
+
+test
+
+## Indicator Name (as listed in the ESR report)
+
+Education and outreach events
+
+## Category (Which group is this indicator associated with?)
+
+Risks to meeting fishery management objectives
+
+## Family (Which group is this indicator associated with?)
+
+Governance
+
+## Data Description
+
+Some more pretend data
+
+## Data Type
+
+Automated download
+
+## Public Availability
+
+Source data are publicly available.
+
+## Accessibility and Constraints
+
+Available online at pretenddata.com
+
+## Methods for accessing and preparing data
+
+Please be as detailed as possible. If the data are available in an online repository, please include the website link.
+
+## Name of R script used to access and manipulate dataset
+
+test2.R
+
+## Key figures
+
+If not a typical time series plot, please be as detailed as possible when describing the best way to visualize the data.
+
+## Interpretation
+
+Proceed as though this were a short summary of a typical discussion section in a paper.
+
+## Spatial Scale
+
+Oz
+
+## Temporal Scale
+
+Monthly
+
+## Data Limitations
+
+The data do not exist
+
+## Define Variables
+
+| Name | Definition | Units |
+|------|------------|-------|
+| Ex: 1) | NA | NA |
+| birds; Definition: number of birds; Units: numbers. 2) | NA | NA |
+| cows; Definition: number of cows; Units: numbers. | NA | NA |
+
+## Key references
+
+Ex. Surface North Atlantic MOM5-TOPAZ outputs derived from a regular hindcast and a robust diagnostic simulation experiment from 1980-01-01 to 2017-12-31 (NCEI Accession 0283628). NOAA National Centers for Environmental Information. Dataset. https://www.ncei.noaa.gov/archive/accession/0283628. Accessed 2023-02-19.
+
+## Data Contributors
+
+Ex: Carissa Gervasi, Mandy Karnauskas.
+

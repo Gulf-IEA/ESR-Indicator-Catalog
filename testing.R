@@ -29,10 +29,10 @@ fs::dir_copy("Tech_Doc/_site", "_book/tech-doc", overwrite = TRUE)
 library(httr)
 library(jsonlite)
 library(glue)
-source("Tech_Doc/pull_single_issue.R")
-source("Tech_Doc/parse_issue.R")
-source("Tech_Doc/create_object.R")
-source("Tech_Doc/write_qmd.R")
+source("R_functions/pull_single_issue.R")
+source("R_functions/parse_issue.R")
+source("R_functions/create_object.R")
+source("R_functions/write_qmd.R")
 
 # --- Get all issues from the repo ---
 get_all_issues <- function(repo) {
@@ -53,7 +53,7 @@ i=2
 issue_num=9
 
 # --- Process all submission issues ---
-process_all_submissions <- function(repo = "Gulf-IEA/Caribbean-ESR-2", output_dir = "Tech_Doc/issues") {
+process_all_submissions <- function(repo = "Gulf-IEA/ESR-Indicator-Catalog", output_dir = "content") {
   issues <- get_all_issues(repo)
   submissions <- get_submission_issues(issues)
   
@@ -78,7 +78,7 @@ process_all_submissions <- function(repo = "Gulf-IEA/Caribbean-ESR-2", output_di
     
     # Clean up the filename based on title
     safe_title <- title |>
-      gsub("^submission_", "", x = _) |>          # Remove "submission_" from the start of the title
+      gsub("^Submission_", "", x = _) |>          # Remove "submission_" from the start of the title
       gsub("[^a-zA-Z0-9_]+", "_", x = _) |>       # Replace non-alphanumeric characters with underscores
       gsub("_+", "_", x = _) |>                   # Collapse multiple underscores
       gsub("^_|_$", "", x = _)                    # Remove leading/trailing underscores

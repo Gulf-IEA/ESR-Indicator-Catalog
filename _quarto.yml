@@ -3,38 +3,28 @@ project:
 
 book: 
   page-navigation: true
-  title: "NOAA quarto book" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-book" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-book"
+  title: "ESR Indicator Catalog" 
+  site-url: "https://nmfs-opensci.github.io/ESR-Indicator-Catalog" 
+  repo-url: "https://github.com/Gulf-IEA/ESR-Indicator-Catalog"
   repo-actions: [edit, source, issue]
   favicon: assets/favicon.ico
   downloads: [pdf, docx]
   search: true
   author:
-    - name: Jane Doe
-      affiliations:
-        - name: NOAA Fisheres
-          department: Northwest Fisheries Science Center
-    - name: Eva Nováková
-      institute: test
+    - name: Southeast Integrated Ecosystem Assessment Program
       affiliations:
         - name: NOAA Fisheries
-          department: West Coast Regional Office
-          institute: test
-    - name: Matti Meikäläinen
-      affiliations:
-        - name: NOAA Fisheries
-          department: Southwest Fisheries Science Center
+          department: Southeast Fisheries Science Center
   chapters:
     - index.qmd
-    - content/setup.qmd
-    - content/add-content.qmd
-    - content/customizing.qmd
-    - content/rendering.qmd
-    - content/figures_and_tables.qmd
-    - content/code.qmd
-    - content/adding-refs.qmd
-    - content/references.qmd
+
+    - part: "Gulf"
+      chapters:
+        - content/Submission_Test1.qmd
+
+    - part: "Caribbean"
+      chapters:
+        - content/Submission_Test2.qmd
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -66,15 +56,18 @@ format:
     classoption: ["oneside", "open=any"]
     titlepage: "plain"
     keep-tex: true
+    number-sections: false
   docx:
     toc: true
     toc-depth: 2
     reference-doc: template.docx
     always_allow_html: true
+    number-sections: false
   html:
     theme: [cosmo, assets/theme.scss] 
     toc: true
     toc-depth: 3
+    number-sections: false
 
 filters:
   - assets/include-files.lua
