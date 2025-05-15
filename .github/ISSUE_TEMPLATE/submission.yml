@@ -1,12 +1,12 @@
-name: Caribbean ESR - Tech Doc submission
-description: Use this issue template to submit technical documentation for each data set used in the Caribbean Ecosystem Status Report 
+name: ESR indicator catalog submission
+description: Use this issue template to submit technical documentation for each data set used in Ecosystem Status Reports. Please select the appropriate Github label for the report the indicator refers to. 
 title: "[Submission]: "
 labels: ["submission"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for contributing to the Caribbean ESR report! Please reach out to carissa.gervasi@noaa.gov with any questions or concerns.
+        Thank you for contributing to an ESR report! Please reach out to carissa.gervasi@noaa.gov with any questions or concerns.
         
   - type: input
     id: your_name
